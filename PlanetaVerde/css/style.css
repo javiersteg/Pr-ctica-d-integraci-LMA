@@ -11,11 +11,22 @@
 #image9 {
   position: absolute;
   z-index: 0;
-  width: 100%;
+  width: 98%;
   height: 300px;
+  margin-left: 1%;
+  margin-right: 1%;
 }
-div {
-  width: auto;
+#textoblanco {
+  color: white;
+  z-index: 2;
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 50%;
+  font-size: 50px;
+}
+#logoyfondoverde {
+
+  width: 98%;
 }
  #header {
      /*margin:auto;*/
